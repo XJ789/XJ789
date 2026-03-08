@@ -24,8 +24,14 @@
   - Implemented features and wrote integration tests for medium-sized codebases.
   - Mastered Git workflows and resolved complex merge conflicts.
 
-### 📊 My GitHub Trophies
-[![github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=XJ789&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 GitHub Trophies 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=XJ789&theme=radical" alt="github-profile-trophy" />
+</p>
 
+### ⌛ WakaTime Weekly Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=XJ789&layout=compact&theme=radical" alt="Wakatime Stats" />
+</p>
 ---
 *“I'm always eager to learn, build, and tackle new challenges. Feel free to reach out!”*

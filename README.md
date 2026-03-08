@@ -1,10 +1,5 @@
 # Hi there 👋, I'm JIAN! 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XJ789&show_icons=true&theme=radical" alt="Jian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJ789&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
 ### 👨‍💻 About Me
 - 🎓 **Junior Computer Science student** at Gachon University, South Korea.
 - 🚀 **Aspiring Software Engineer** focused on backend development and system integrations.
@@ -24,7 +19,13 @@
   - Implemented features and wrote integration tests for medium-sized codebases.
   - Mastered Git workflows and resolved complex merge conflicts.
 
-### 🏆 GitHub Trophies 
+### 📊 GitHub Stats & Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=XJ789&show_icons=true&theme=radical&cache_seconds=1800" alt="Jian's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJ789&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" height="150" />
+</p>
+
+### 🏆 GitHub Trophies
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=XJ789&theme=radical" alt="github-profile-trophy" />
 </p>

@@ -27,7 +27,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy-seven-sigma.vercel.app/?username=XJ789&theme=radical" alt="github-profile-trophy" />
+  <img src="https://github-profile-trophy-tau-bice.vercel.app/?username=XJ789&theme=radical" alt="github-profile-trophy" />
 </p>
 
 ### ⌛ WakaTime Weekly Stats

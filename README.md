@@ -21,8 +21,8 @@
 
 ### 📊 GitHub Stats & Top Languages
 <p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=XJ789&show_icons=true&theme=radical" alt="Jian's Stats" height="150" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=XJ789&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-gamma-three-78.vercel.app/api?username=XJ789&show_icons=true&theme=radical" alt="Jian's Stats" height="150" />
+  <img src="https://github-readme-stats-gamma-three-78.vercel.app/api/top-langs/?username=XJ789&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -32,7 +32,7 @@
 
 ### ⌛ WakaTime Weekly Stats
 <p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=XJ789&layout=compact&theme=radical" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats-gamma-three-78.vercel.app/api/wakatime?username=XJ789&layout=compact&theme=radical" alt="Wakatime Stats" />
 </p>
 ---
 *“I'm always eager to learn, build, and tackle new challenges. Feel free to reach out!”*

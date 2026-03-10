@@ -1,4 +1,6 @@
-# Hi there 👋, I'm JIAN! 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,2,25,35,45&height=200&section=header&text=JIAN%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ### 👨‍💻 About Me
 - 🎓 **Junior Computer Science student** at Gachon University, South Korea.
@@ -6,34 +8,44 @@
 - 🛠️ Currently building full-stack web applications and contributing to open-source projects.
 - 📫 How to reach me: xj061611@gmail.com
 
+---
+
 ### 🛠 Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,py,cpp,mongodb,maven" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=js,html,css" /> |
+| **Tools & OS** | <img src="https://skillicons.dev/icons?i=linux,git,github,postman" /> |
+
+---
+
+### 🌟 Featured Project
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,mongodb,git,linux,postman,maven,github" />
+  <a href="https://github.com/hidai25/eval-view">
+    <img src="https://github-readme-stats-gamma-three-78.vercel.app/api/pin/?username=hidai25&repo=eval-view&theme=tokyonight&show_owner=true" alt="EvalView" />
   </a>
 </p>
 
-### 🌟 Open Source Contributions
-- **[EvalView](https://github.com/hidai25/eval-view)**: 
-  - Integrated third-party API SDKs (**Cohere, Mistral**).
-  - Implemented features and wrote integration tests for medium-sized codebases.
-  - Mastered Git workflows and resolved complex merge conflicts.
+---
 
-### 📊 GitHub Stats & Top Languages
+### 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats-gamma-three-78.vercel.app/api?username=XJ789&show_icons=true&theme=radical" alt="Jian's Stats" height="150" />
-  <img src="https://github-readme-stats-gamma-three-78.vercel.app/api/top-langs/?username=XJ789&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-gamma-three-78.vercel.app/api?username=XJ789&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-gamma-three-78.vercel.app/api/top-langs/?username=XJ789&layout=compact&theme=tokyonight" height="170" />
 </p>
 
-### 🏆 GitHub Trophies
+#### 📈 Contribution Activity
 <p align="left">
-  <img src="https://github-profile-trophy-tau-bice.vercel.app/?username=XJ789&theme=radical" alt="github-profile-trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XJ789&theme=tokyonight&area=true&hide_border=true&custom_title=Activity%20Pulse" width="100%" />
 </p>
 
-### ⌛ WakaTime Weekly Stats
+#### ⌛ Coding Hours (WakaTime)
 <p align="left">
-  <img src="https://github-readme-stats-gamma-three-78.vercel.app/api/wakatime?username=XJ789&layout=compact&theme=radical" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats-gamma-three-78.vercel.app/api/wakatime?username=XJ789&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-*“I'm always eager to learn, build, and tackle new challenges. Feel free to reach out!”*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XJ789&label=Profile%20Views&color=blue&style=flat" alt="Views" />
+</p>

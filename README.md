@@ -27,6 +27,9 @@
   </a>
 </p>
 
+#### 🛠️ Technical Deep Dive
+👉 [**Read the full Technical Deep Dive on my Blog**](https://xj789.hashnode.dev/implementing-multi-turn-support-in-evalview-a-technical-deep-dive-evalview)
+
 ---
 
 ### 📊 GitHub Analytics
